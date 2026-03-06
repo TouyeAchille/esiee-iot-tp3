@@ -1,4 +1,4 @@
-# TP3 – IoT System with MQTT + DHT22 + LCD + + Led + Buzzer + Cloud Integration
+# TP3 – IoT System with MQTT+ ESP32 + DHT22 + LCD + + Led + Buzzer + Cloud Integration
 
 ## Objective
 
